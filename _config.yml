@@ -9,12 +9,9 @@ disqus: cyberthreatinfo
 google_analytics: cyberthreatinfo
 title: Cyberthreats
 defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Cyberthreats
-
+scope:
+path: "" # empty string for all files
+values:
 description: Cyber Security Blog
 author: Cyberthreat1
   name: Cyberthreat.info
