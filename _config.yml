@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: cyberthreatinfo
+      title: Cyberthreat.info
 
 description: Cyber Security Blog
 author: Cyberthreat.info
