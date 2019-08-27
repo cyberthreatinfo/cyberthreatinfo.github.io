@@ -14,7 +14,7 @@ path: "" # empty string for all files
 values:
 description: Cyber Security Blog
 author: Cyberthreat1
-  name: Cyberthreatinfo1
+  name: Cyberthreatinfo
   email: cyberthreatinfo
   github: cyberthreatinfo
   twitter: cyberthreatinfo
