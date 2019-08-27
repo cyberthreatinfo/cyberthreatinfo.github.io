@@ -7,20 +7,24 @@ highlighter: rouge
 markdown: kramdown
 disqus: cyberthreatinfo
 google_analytics: cyberthreatinfo
-title: Cyberthreats
+title: cyberthreatinfo
+
 defaults:
-scope:
-path: "" # empty string for all files
-values:
-description: Cyber Security Blog
-author: Cyberthreat1
-  name: Cyberthreatinfo
-  email: cyberthreatinfo
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: cyberthreatinfo
+
+description: Stylish Jekyll Theme
+author:
+  name: cyberthreatinfo
+  email: cyberthreatinfo@ismaildemirbilek.com
   github: cyberthreatinfo
   twitter: cyberthreatinfo
   pinterest: asd123
   linkedin: asd123
-  bio: Experts Musing on Cyber Security!12
+  bio: Your stylish, minimalist theme!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
