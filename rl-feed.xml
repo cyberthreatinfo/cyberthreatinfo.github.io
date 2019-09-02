@@ -9,7 +9,7 @@ layout: null
 		<description>{{ site.description }}</description>
 		<link>{{ site.BASE_PATH }}/</link>
 		<atom:link href="{{ site.BASE_PATH }}/{{ site.rss_path }}" rel="self" type="application/rss+xml" />
-		{% for post in site.tags["outsourcing"] limit:10 %}
+		{% for post in site.tags["authored-by-RL"] limit:10 %}
         
 			<item>
 				<title>{{ post.title }}</title>
