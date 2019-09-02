@@ -1,11 +1,11 @@
 cyberthreatinfo
 =====
 
-Open source stylish, minimalistic theme for jekyll.  
+Cybersecurity Blog.  
 
 
 
 
 ### License
-- [MIT](http://opensource.org/licenses/MIT)
+Blog content is copyrighted content
 
