@@ -19,10 +19,10 @@ defaults:
 description: Stylish Jekyll Theme
 author:
   name: cyberthreatinfo
-  email: cyberthreatinfo@ismaildemirbilek.com
-  github: cyberthreatinfo
+  #email: cyberthreatinfo@ismaildemirbilek.com
+  #github: cyberthreatinfo
   twitter: cyberthreatinfo
-  pinterest: asd123
+  #pinterest: asd123
   linkedin1: asd123
   linkedin2: r2d2
   bio: Experts Musing on Cyber Security!
