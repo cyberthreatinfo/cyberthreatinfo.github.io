@@ -23,6 +23,19 @@
 			</a>
 		</li>
 		{% endif %}
+		{% if site.author.linkedin1 %}
+		<li>
+			<p>RL</p><a class="btn btn-default btn-sm" href="https://linkedin.com/in/{{ site.author.linkedin1 }}">
+				<i class="fa fa-linkedin fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.linkedin2 %}
+		<li>
+			<p>RC</p><a class="btn btn-default btn-sm" href="https://linkedin.com/in/{{ site.author.linkedin2 }}">
+				<i class="fa fa-linkedin fa-lg"></i>
+			</a>
+		</li>
 		{% if site.author.twitter %}
 		<li>
 			<a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
