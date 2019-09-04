@@ -2,18 +2,21 @@
 layout: post
 title: Outsourcing part 2 of 2 - Software Development
 categories: [security, outsourcing, software development]
-tags: [security, outsourcing, software, GDPR, HIPAA, HITECH, contractors]
+tags: [security, outsourcing, software, GDPR, HIPAA, HITECH, contractors, authored-by-RC]
 fullview: false
 comments: false
+author: rchan
 ---
-
+<div class="col-small-1" align="center">
+<img src="/images/outsource.jpg" style='height: 50%; width: 50%; object-fit: contain;'>
+</div>
+<BR>
 Outsourcing is a very common practice today - whether outsourcing a specific 
 facet of your business, or a fringe business need.  However, have you done 
 enough to protect your business and your customers data?  How much is enough?
-This article will help answer these questions.
-
-This article is part 2 of 2 on outsourcing practices, and deals more 
-specifically with the pitfalls of outsourcing software development
+This article will help answer these questions.  This article is part 2 of 2 on 
+outsourcing practices, and deals more specifically with the pitfalls of 
+outsourcing software development.
 
 
 ## Software Development Outsourcing 

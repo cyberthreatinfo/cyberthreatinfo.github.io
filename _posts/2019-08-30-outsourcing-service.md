@@ -2,17 +2,20 @@
 layout: post
 title: Outsourcing part 1 of 2 - Services
 categories: [security, outsourcing]
-tags: [security, outsourcing, GDPR, HIPAA, HITECH, contractors]
+tags: [security, outsourcing, GDPR, HIPAA, HITECH, contractors, authored-by-RC]
 fullview: false
 comments: false
+author: rchan
 ---
 
+<div class="col-small-1" align="center">
+<img src="/images/outsource.jpg" style='height: 50%; width: 50%; object-fit: contain;'>
+</div>
+<BR>
 Outsourcing is a very common practice today - whether outsourcing a specific 
 facet of your business, or a fringe business need.  However, have you done 
 enough to protect your business and your customers data?  How much is enough?
-This article will help answer these questions.
-
-This article is part 1 of 2 on outsourcing practices.
+This article will help answer these questions.  This article is part 1 of 2 on outsourcing practices.
 
 
 ## Service Outsourcing 
