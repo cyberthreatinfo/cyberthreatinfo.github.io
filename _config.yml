@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: cyberthreatinfo
-google_analytics: cyberthreatinfo
+google_analytics: UA-6168771-2
 title: Cyber Threat
 
 defaults:
