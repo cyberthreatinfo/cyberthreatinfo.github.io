@@ -39,3 +39,12 @@ BASE_PATH:
 
 plugins:
   - jekyll-paginate
+
+authors:
+  rchan:
+    display_name: Russ Chan
+    linkedin: https://www.linkedin.com/in/russell-chan-cissp-7030471/
+    isc2: https://www.youracclaim.com/badges/64dc456b-a99a-4319-a875-49fe66c3576b
+  rlewis:
+    display_name: Rod Lewis
+    linkedin: https://www.linkedin.com/in/rod-lewis-919b441/
