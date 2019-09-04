@@ -38,6 +38,12 @@ order to mitigate that risk.  I will cover one aspect of outsourcing:
 a company to fulfill a product or a service - for instance an e-commerce 
 supplier for your products.
 
+Companies may enter into an outsourcing arrangement with a provider with the
+expectation that all the risk is transferred to the outsourcer, but this 
+is incorrect.  While contracting with an outsourcer, you may have moved some
+of the _technical_ mitigations to the outsourcer, but you always own the
+ultimate liability of any breach, and need to manage accordingly.
+
 
 As with any risk management program, an organization needs to understand what 
 is priority to be protected and what it’s relative worth is, in order to 
