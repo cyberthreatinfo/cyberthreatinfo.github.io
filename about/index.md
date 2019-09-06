@@ -22,6 +22,6 @@ is being built.
 ## Rod Lewis, P. Eng, CISSP
 
 ![Rod Lewis](/images/rod.jpg)
-A little about the author Rod Lewis P.Eng. CISSP. Rod is a Business, 
-Technology/Operations, Security Leader and Advisor. To find out more 
+Rod Lewis P.Eng. CISSP. 
+Rod is a Business, Technology/Operations, Security Leader and Advisor. To find out more 
 visit: [theoknetwork.com](http://theoknetwork.com) or [Linkedin](https://www.linkedin.com/in/rod-lewis-919b441/).  
