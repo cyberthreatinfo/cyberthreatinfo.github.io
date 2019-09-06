@@ -94,9 +94,4 @@ with questionable ROI, it is important to shift the mindset and
 present/position quantifiably cybersecurity as an indispensable part of
 a business that can keep it competitive, trustworthy and operational.
 
-A little about the author Rod Lewis P.Eng. CISSP. Rod is a Business,
-Technology, Operations, Security Leader and Advisor. To find out more
-visit: [*theoknetwork.com*](http://www.theoknetwork,com) or
-[*Linkedin.*](https://www.linkedin.com/in/rod-lewis-919b441/) This
-articles and more like it can be found at the recently launched
-[*cyberthreat.info*](http://www.cyberthreat.info) blog.
+
