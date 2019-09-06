@@ -30,10 +30,10 @@ functions such as stealing, encrypting or deleting sensitive data,
 altering or hijacking core computing functions and monitoring/spying on
 users.
 
-> **Positioning: **
+> **Positioning:**
 >
 > **§ What is the cost to the organization of: lost data, downtime and
-> lost productivity? **
+> lost productivity?**
 >
 > **§ Quantify by calculating the real cost of losing key system(s) and
 > being down for a day, week or month?**
