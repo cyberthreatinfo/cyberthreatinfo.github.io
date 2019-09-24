@@ -1,7 +1,15 @@
 
-![](http://cyberthreatinfo.github.io/images/logs-beav.png){width="2.297222222222222in"
-height="1.6222222222222222in"}
+---
+layout: post
+title: 5 Great Reasons to Centrally Store, Analyze, and Act on Event Logs
+categories: [logs, security]
+tags: [logs, security, setup, authored-by-RL]
+fullview: false
+comments: false
+author: rlewis
+---
 
+<img src="https://cyberthreatinfo.github.io/images/logs-beav.png" style='height: 100%; width: 100%; object-fit: contain'>
 **5 Great Reasons to Centrally Store, Analyze, and Act on Event Logs**
 
 I originally wrote a version of this a few years ago for my friends at
