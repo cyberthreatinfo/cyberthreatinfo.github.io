@@ -9,7 +9,7 @@ author: rlewis
 ---
 
 <img src="https://cyberthreatinfo.github.io/images/logs-beav.png" style='height: 100%; width: 100%; object-fit: contain'>
-**5 Great Reasons to Centrally Store, Analyze, and Act on Event Logs**
+
 
 I originally wrote a version of this a few years ago for my friends at
 Auvik.
