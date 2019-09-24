@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 5 Great Reasons to Centrally Store, Analyze, and Act on Event Logs
