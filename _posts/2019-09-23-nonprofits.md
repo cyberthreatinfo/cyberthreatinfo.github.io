@@ -1,3 +1,15 @@
+---
+layout: post
+title: Cybersecurity and non-profit organziations
+categories: [security]
+tags: [security, contractors, authored-by-RC]
+fullview: false
+comments: false
+author: rchan
+---
+<div class="col-small-1" align="center">
+<img src="/images/non-profit.jpg" style='height: 50%; width: 50%; object-fit: contain;'>
+</div>
 # Cyber-security and Non-profits
 
 Non-profit organizations walk a tightrope when managing administrative overhead. 
