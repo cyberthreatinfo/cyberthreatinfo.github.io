@@ -1,5 +1,5 @@
 
-![](images/logs-beav.png){width="2.297222222222222in"
+![](http://cyberthreatinfo.github.io/images/logs-beav.png){width="2.297222222222222in"
 height="1.6222222222222222in"}
 
 **5 Great Reasons to Centrally Store, Analyze, and Act on Event Logs**
