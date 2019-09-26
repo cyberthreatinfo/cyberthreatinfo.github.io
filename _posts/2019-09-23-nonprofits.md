@@ -8,14 +8,14 @@ comments: false
 author: rchan
 ---
 <div class="col-small-1" align="center">
-<img src="/images/non-profit.jpg" style='height: 50%; width: 50%; object-fit: contain;'>
+<img src="/images/non-profit.png" style='height: 50%; width: 50%; object-fit: contain;'>
 </div>
 # Cyber-security and Non-profits
-
 Non-profit organizations walk a tightrope when managing administrative overhead. 
 Every hard-won dollar must be accounted for and wielded as effectively as possible. 
 As donors, we want our donations to get directly to the people in need, and not 
-to "red tape" or administrative overhead.
+to "red tape" or administrative overhead.  In light of this, how to address 
+cybersecurity risk?
 
 However, with that being said, we need to recognize that the staff that run the 
 non-profit perform an extremely valuable role in the organization, making 
