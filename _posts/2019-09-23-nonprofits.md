@@ -25,16 +25,16 @@ security and cyber-security side of things at non-profits.
 
 Cybersecurity is a topic that is starting to rise in the public's perception. 
 For those of you who aren't directly involved in the space - it's a situation 
-of "you don't know what you don't know". Training and education is the first 
-step.
+of "you don't know what you don't know". **Training and education is the first 
+step.**
 
 Cybersecurity often takes a back seat as it isn't a problem until it's a 
-PROBLEM, which is typically too late. In the context of non-profits, however, 
+**PROBLEM**, which is typically too late. In the context of non-profits, however, 
 this can be catastrophic on both your fund-raising efforts and your clients.
 
 Think on this:
 
-IF a cyber-incident or data breach were to occur in the fund-raising side of 
+*IF* a cyber-incident or data breach were to occur in the fund-raising side of 
 things, how would that affect your:
 - Brand?
 - Donor base and the loss of trust?
@@ -47,12 +47,12 @@ and personal information remain confidential. If you work with or for a
 non-profit, and have have never thought of these questions, or are worried 
 about even asking the question, let me help you with some basics.
 
-Cyber-security should be thought of as an element of your risk management 
-strategy. In the same way that you have strategies for dealing with fire, 
+**Cyber-security should be thought of as an element of your risk management 
+strategy**. In the same way that you have strategies for dealing with fire, 
 theft, flooding or other risk events, you need a strategy to deal with 
 cyber-security issues. As with these other risks, it pays to be prepared to 
 deal with the risk, rather than being caught flat-footed when the event 
-happens, as when it happens, reaction time and actions are critical.
+happens, as when it happens, **reaction time and actions are critical**.
 
 - How are you protecting donor information?
 - Who has access to this information?
