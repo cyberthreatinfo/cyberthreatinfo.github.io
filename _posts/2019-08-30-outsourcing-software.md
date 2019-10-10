@@ -8,7 +8,7 @@ comments: false
 author: rchan
 ---
 <div class="col-small-1" align="center">
-<img src="/images/outsource.jpg" style='height: 50%; width: 50%; object-fit: contain;'>
+<img src="https://cyberthreatinfo.github.io/images/outsource.jpg" style='height: 50%; width: 50%; object-fit: contain;'>
 </div>
 <BR>
 Outsourcing is a very common practice today - whether outsourcing a specific 

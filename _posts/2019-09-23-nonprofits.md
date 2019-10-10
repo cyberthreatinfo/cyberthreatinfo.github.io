@@ -8,7 +8,7 @@ comments: false
 author: rchan
 ---
 <div class="col-small-1" align="center">
-<img src="/images/non-profit.png" style='height: 50%; width: 50%; object-fit: contain;'>
+<img src="https://cyberthreatinfo.github.io/images/non-profit.png" style='height: 50%; width: 50%; object-fit: contain;'>
 </div>
 # Cyber-security and Non-profits
 Non-profit organizations walk a tightrope when managing administrative overhead. 
