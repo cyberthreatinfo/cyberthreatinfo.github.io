@@ -7,7 +7,6 @@ fullview: false
 comments: false
 author: rlewis
 ---
-
 <img src="https://cyberthreatinfo.github.io/images/logs-beav.png" style='height: 100%; width: 100%; object-fit: contain'>
 
 
