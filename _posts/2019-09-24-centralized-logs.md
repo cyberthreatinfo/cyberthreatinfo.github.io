@@ -9,7 +9,6 @@ author: rlewis
 ---
 
 <img src="https://cyberthreatinfo.github.io/images/logs-beav.png" style='height: 100%; width: 100%; object-fit: contain'>
-
 I originally wrote a version of this a few years ago for my friends at
 Auvik. I’ve updated it as some things have changed but the core message is
 still invaluable and frankly a concept missed by many organizations.
